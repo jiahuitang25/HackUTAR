@@ -50,6 +50,7 @@ This project provides an automated solution for generating invoices from data st
 ### Configuration
 
 - **Spreadsheet Structure**: Ensure your Google Sheets document has the following columns: `Invoice Number`, `Client Name`, `Client Email`, `Item Description`, `Quantity`, `Unit Price`, `Total Amount`, `Status`.
+- **Sample Spreadsheet for demo purpose**: https://docs.google.com/spreadsheets/d/1___6S1yEUG8YerXmVxSYeLlnlLZobIjscSAkNGbuYmo/edit?usp=sharing
 - **Email Setup**: Customize the email template and subject line as needed. Ensure that your Gmail account has sufficient quota to send emails.
 
 ## Usage
